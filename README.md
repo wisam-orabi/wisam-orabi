@@ -9,7 +9,7 @@
 
 ## :bulb: About
 
-Hello! My name is Wisam Orabi, and I am a senior software engineer. All the badges are clickable - Please have a look around and feel free to explore my repositories!
+All the badges are clickable - Please have a look around and feel free to explore my repositories!
 
 
 #### Backend
