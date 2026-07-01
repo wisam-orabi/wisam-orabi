@@ -84,7 +84,7 @@ Java & AWS-powered microservices-based platform connecting doctors, pharmacies, 
 
 #### Visual Maze Solver
 
-[![Repository](https://img.shields.io/static/v1?label=&message=maze-solver&color=black&logo=github)](https://www.github.com/wisam-orabi/maze-solver)  
+[![Repository](https://img.shields.io/static/v1?label=&message=maze-solver&color=black&logo=github)](https://www.github.com/wisam-orabi/maze-solver)
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=3F78A9&logo=cplusplus)](https://isocpp.org)  
 Maze-solving engine in C++ that applies BFS and DFS graph traversal algorithms, built entirely on STL data structures.
 <br/><br/>
